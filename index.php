@@ -1,4 +1,3 @@
 <?php
-
-echo" HELLOW WORLD";
+echo"HELLOW WORLD";
 ?>
